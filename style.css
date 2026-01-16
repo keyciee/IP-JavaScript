@@ -1,3 +1,4 @@
+/* Edited by Tracer :P - local machine commit */
 /* Reset some basic styles */
 * {
     margin: 0;
@@ -21,7 +22,7 @@ body {
 /* Quiz container styling */
 .quiz-container {
     background-color: #ffffff;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
     width: 600px;
     overflow: hidden;
